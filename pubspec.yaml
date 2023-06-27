@@ -1,6 +1,6 @@
 name: workspace_core
 description: A new Flutter project.
-version: 21.2.10
+version: 21.2.11
 homepage: https://github.com/syncfusion/flutter-widgets/tree/master/packages/syncfusion_flutter_core
 
 environment:
